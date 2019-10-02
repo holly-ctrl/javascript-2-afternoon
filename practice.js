@@ -15,7 +15,7 @@
 */
 
 let me = {
-  name: 'holly',
+  name: 'Holly',
   age: 25
 }
 
@@ -64,10 +64,11 @@ favoriteThings.book = 'Harry Potter'
 */
 
 let backPack = {}
+let item = 'firstPocket'
 
-var item = 'firstPocket'
 backPack[item] = 'chapstick'
-backPack.color = 'black'
+
+backPack.color = 'green'
 
 
 
@@ -105,8 +106,8 @@ var user2 = {
   Make that change without modifying the original object code above.
 */
 
-user2.name = "Bryan G. Smith";
-user2.email = 'bryan.smith@devmounta.in';
+user2.name = 'Bryan G. Smith'
+user2.email = 'bryan.smith@devmounta.in'
 
 /////////////////////// EXTRA PRACTICE PROBLEMS BELOW ////////////////////
 ////////// MOVE ONTO NEXT SECTION BEFORE WORKING ON THESE ////////////////
